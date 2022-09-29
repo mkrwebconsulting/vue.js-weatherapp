@@ -1,9 +1,9 @@
 # Weather App by Isaak M. - mkrwebconsulting
 
-## Created with Vue 3, Tailwind & Vite. Deployed on AWS
+Created with Vue 3, Tailwind & Vite. Deployed on AWS
 
 Visit the App here:
----
+[visit App](https://main.d1fmmx5iivrxrb.amplifyapp.com/)
 
 ## Customize configuration
 
